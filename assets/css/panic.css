@@ -1,0 +1,42 @@
+body, html{
+	font-size: 16px;
+	font-family: "Raleway", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+}
+
+button:focus {
+	outline: none; /*removed blue outline from clicked buttons. I realize this is not ideal for accessibility purposes but it was distracting from what I was trying to accomplish with this excerise. I would do this differently in a production website */
+}
+
+div {
+	position: relative;
+	padding-top: 30px;
+	left: 40%;
+}
+
+button { /*keep this class throughout excercise*/
+	position: relative;
+	border-radius: 10px;
+	background: #fff;
+	border: 1px solid #000;
+}
+
+.second, .third, .fourth {
+	font-size: 24px;
+	display: none;
+}
+
+.fourth {
+	background: #A42127;
+}
+
+
+#secondText, #thirdText, #fourthText, #fifthText, #sixthText, section{
+	display: none;
+}
+
+.drop {
+	transform: translateY(1000px) rotateZ(120deg);
+	transition: all 1s ease-in;
+}
+
