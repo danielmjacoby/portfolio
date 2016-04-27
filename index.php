@@ -56,13 +56,18 @@
 <section id="built">
 	<div class="container-fluid"
 		<div class="row" id="projects">
-			<div class="col-sm-offset-1 col-sm-10">
-				<div class="col-sm-offset-2 col-sm-8">
-					<h1>What I've Built</h1>
+			<div class="col-sm-offset-2 col-sm-8">
+				<h1>What I've Built</h1>
+				<div class="col-sm-6">
+					
 						<p class="lead"><a href="http://www.oktofail.com" target="_blank">oktofail.com</a></p>
 						<p>My biggest project to date is a custom WordPress theme. I self-publish short stories on Amazon, and I needed a new website. The site was built using a combination of Bootstrap and PHP. I used <a href="https://www.udemy.com/bootstrap-to-wordpress/learn/v4/content" target="_blank">this course on Udemy</a> as a head start.</p>
 						<p>You can read about my triumphs and struggles with this project (and others) <a href="http://www.zerotofrontend.wordpress.com" target="_blank">on my blog</a>. I use it to document my web dev journey. </p>
+				</div><!--col-->
+				<div class="col-sm-6">
 						<a href="http://www.oktofail.com" target="_blank"><img class="img-rounded border" src="assets/img/oktofail2.png" alt="A wordpress website I built"></a>
+				</div><!--col-->		
+				<div class="col-sm-12">
 						<hr>
 						<p class="lead"><a href="card.php" target="_blank">Digital Business Card Social Media Landing Page... Thing</a></p>
 						<p>(I'm still working on the title of this one.)</p>
