@@ -25,8 +25,8 @@ h1 {
 	padding-bottom: 15px;
 }
 
-h2 {
-	/*margin-bottom: 40px;*/
+h3 {
+	line-height: 40px;
 }
 
 
@@ -60,6 +60,7 @@ hr {
 	font-size: 1.2em;
 }
 
+
 .lead {
 	font-weight: bold;
 }
@@ -78,12 +79,15 @@ hr {
 
 /*===INTRO===*/
 #intro {
-	background: url("/../assets/img/background.jpg") 25% 25%;
+	background: url("/../assets/img/bookbackground.jpg");
 	background-size: cover;
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 	text-align: center;
 	min-height: 600px;
 	color: #fff;
-	border-bottom: 1px solid #000;
+	
 
 }
 
@@ -101,7 +105,7 @@ hr {
 /*===WHAT I'VE BUILT===*/
 
 #built {
-	background: #b4f1f1;
+	background: #fff;
 	text-align: center;
 	padding-top: 50px;
 }
@@ -112,7 +116,12 @@ hr {
 
 #built a {
 	color: #000;
-	text-decoration: underline;
+	text-decoration: none;
+	border-bottom: 4px solid #B4F1F1;
+}
+
+#built p{
+	text-align: left;
 }
 
 #projects {
@@ -127,6 +136,7 @@ hr {
 
 #know {
 	text-align: center;
+	background: #ECFFFB;
 
 
 }
@@ -141,8 +151,7 @@ hr {
 .lighter {
 	background: #ECFFFB;
 	color: #000;
-	/*border-left: 1px solid #ccc;
-	border-right: 1px solid #ccc;*/
+	border: 1px solid #000;
 	border-radius: 10px;
 }
 
@@ -239,9 +248,17 @@ footer a{
 }
 
 @media screen and (min-width: 768px){
-	.middle{
+	.middle{ /*add padding to #know and #contact sections*/
 		margin: 100px 0 100px 0;
 	}
+}
+
+@media screen and (max-width: 863px){
+	/*#intro {
+		background: url("/../assets/img/bookbackground.jpg");
+		background-size: cover;
+		background-position: 0% 50%;
+	}*/
 }
 
 

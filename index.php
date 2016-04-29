@@ -28,7 +28,7 @@
 					</div><!-- navbar-header-->
 						<div class="navbar-collapse collapse">
 							<ul class="nav navbar-nav navbar-right">
-								<li class="active"><a href="#built">What I've Built</a></li>
+								<li><a href="#built">What I've Built</a></li>
 								<li><a href="#know">What I Know</a></li>
 								<li><a href="#about-me">About Me</a></li>
 								<li><a href="#contact">Contact</a></li>
@@ -43,10 +43,10 @@
 <section id="intro">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12" >
-				<h1>I'm a front-end web developer</h1>
-				<p class="lead">This is my portfolio</p>
-				<!--<img class="img-rounded" src="assets/img/danielCamera.jpg" alt="Daniel holding a camera" width="360" height="458">-->
+			<div class="col-sm-offset-1 col-sm-10" >
+				<h1>I'm Daniel, a front-end web developer.</h1>
+				<p class="lead">Welcome to my portfolio.</p>
+				
 				
 			</div><!--col-->
 		</div><!--row-->
@@ -58,38 +58,47 @@
 		<div class="row" id="projects">
 			<div class="col-sm-offset-2 col-sm-8">
 				<h1>What I've Built</h1>
-				<div class="col-sm-6">
+				<div class="col-sm-offset-2 col-sm-4">
 					
-						<p class="lead"><a href="http://www.oktofail.com" target="_blank">oktofail.com</a></p>
+						<h3><a href="http://www.oktofail.com" target="_blank">oktofail.com</a></h3>
 						<p>My biggest project to date is a custom WordPress theme. I self-publish short stories on Amazon, and I needed a new website. The site was built using a combination of Bootstrap and PHP. I used <a href="https://www.udemy.com/bootstrap-to-wordpress/learn/v4/content" target="_blank">this course on Udemy</a> as a head start.</p>
 						<p>You can read about my triumphs and struggles with this project (and others) <a href="http://www.zerotofrontend.wordpress.com" target="_blank">on my blog</a>. I use it to document my web dev journey. </p>
 				</div><!--col-->
-				<div class="col-sm-6">
+				<div class="col-sm-4">
 						<a href="http://www.oktofail.com" target="_blank"><img class="img-rounded border" src="assets/img/oktofail2.png" alt="A wordpress website I built"></a>
-				</div><!--col-->		
-				<div class="col-sm-12">
-						<hr>
-						<p class="lead"><a href="card.php" target="_blank">Digital Business Card Social Media Landing Page... Thing</a></p>
-						<p>(I'm still working on the title of this one.)</p>
+				</div><!--col-->
+				<div class="col-sm-offset-2 col-sm-8">
+				<hr>		
+				</div>
+				<div class="col-sm-offset-2 col-sm-4">
+						
+						<h3><a href="card.php" target="_blank">Digital Business Card Social Media Landing Page... Thing</a></h3>
+						<h4>(I'm still working on the title of this one.)</h4>
 						<p>This started as a project for my brother-in-law. He wanted a simple page where he could link to all of his various online personas. I liked what I made enough that I stole the idea for myself and stuck my goofy face on it.<br> ¯\_(ツ)_/¯ <br><br>
 						The site is responsive without using any frameworks, and has a wee bit of PHP (to load a random GIF on refresh and to keep the &copy; date current).</p>
+				</div><!--col-->
+				<div class="col-sm-4">
 						<a href="card.php" target="_blank"><img class="img-rounded" src="assets/img/digicard.png" alt="A digital business card site"></a>
 					
+						
+				</div><!--col-->
+				<div class="col-sm-offset-2 col-sm-4">
+						<h3><a href="newcard.php" target="_blank">The Other One</a></h3>
 						<p>I still made a site for my brother-in-law. I felt guilty about stealing the initial idea for myself, so I tried adding some more bells and whistles. The site looks different on mobile vs desktop, which I accomplished via CSS flexbox and sacrificing an albino calf to the dark gods that live in a field by my house.</p><br>
-				</div>
-				<div class="col-sm-offset-2 col-sm-3">
-					<p class="lead">Mobile Devices</p>
-					<a href="newcard.php" target="_blank"><img class="img-rounded" src="assets/img/garrymobile.png" alt="A digital business card"></a>
-				</div><!-- div col -->
-				<div class="col-sm-5">
-					<p class="lead">Desktop</p>
+				</div><!--col-->
+				<div class="col-sm-4">
+				
 					<a href="newcard.php" target="_blank"><img class="img-rounded" src="assets/img/garrydesktop.png" alt="A digital business card"></a>
 				</div><!-- div col -->
-
 				<div class="col-sm-offset-2 col-sm-8">
-					<hr>
-					<p class="lead"><a href="panicbutton.html" target="_blank">Panic Button</a></p>
+				<hr>		
+				</div>
+				<div class="col-sm-offset-2 col-sm-4">
+					
+					<h3><a href="panicbutton.html" target="_blank">Panic Button</a></h3>
 					<p>This is an experiment trying out interactive fiction, an idea I'd like to build upon. I built it using jQuery. </p>
+				</div><!--col-->
+				<div class="col-sm-4">
 					<a href="panicbutton.html" target="blank"><img class="img-rounded border" src="assets/img/panicbutton.png" alt="Panic Button page screenshot"></a>
 				</div><!-- div col -->		
 				<div class="col-sm-offset-2 col-sm-8">
@@ -184,7 +193,7 @@
 					<i class="fa fa-ship fa-5x"></i>
 					</div><!--whitebox-->
 				</div><!-- div col -->
-				<div id="bio" class="col-sm-offset-2 col-sm-8">
+				<div id="bio" class="col-sm-offset-1 col-sm-10">
 				<p>But don't worry; I'm not interested in any of that. Let's talk about me.</p>
 				<p>It's safe to say that my life has always revolved around technology. I grew up on a steady diet of Etch-A-Sketch (<em>that</em> would make for a cool icon), Konami codes, and indestructable Nokia brick phones. I've purchased (and returned) an Apple Watch, launched a <a href="https://www.indiegogo.com/projects/best-father-s-day-gift-ever/x/107059#/" target="_blank">woefully unsuccessfull crowdfunding campaign</a>, and I'll soon be welcoming a brand-new baby Oculus Rift into my home.</p>
 				<p>But it wasn't until the summer of 2015 that I decided it was time to learn how to make the things I love, instead of just consuming them. In the beginning, I focused on front-end web design for several reasons:
