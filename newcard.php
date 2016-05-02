@@ -21,7 +21,7 @@
 	
 	
 		
-		<img id="gif" src="assets/img/garry-<?php echo rand(1,2); ?>.gif" alt="Random gif of Garry">
+		<img id="gif" src="assets/img/garry-1.gif" alt="Gif of Garry">
 		
 
 

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>My Portfolio - Daniel Jacoby</title>
 	<!-- Font Awesome -->
@@ -82,6 +82,9 @@
 					
 						
 				</div><!--col-->
+				<div class="col-sm-offset-2 col-sm-8">
+				<hr>		
+				</div>
 				<div class="col-sm-offset-2 col-sm-4">
 						<h3><a href="newcard.php" target="_blank">The Other One</a></h3>
 						<p>I still made a site for my brother-in-law. I felt guilty about stealing the initial idea for myself, so I tried adding some more bells and whistles. The site looks different on mobile vs desktop, which I accomplished via CSS flexbox and sacrificing an albino calf to the dark gods that live in a field by my house.</p><br>
