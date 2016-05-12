@@ -137,6 +137,7 @@
 						<li><i class="fa fa-html5"></i> HTML5</li>
 						<li><i class="fa fa-css3"></i> CSS3</li>
 						<li><span class="purple">B</span> Bootstrap</li>
+						<li><i class="fa fa-github"></i> Git/Github</li>
 						<li><i class="fa fa-hand-spock-o"></i> Introverts</li>
 						<div class="bottom">
 							<li>I'm leaving all this empty space because I'm an optimist</li>
@@ -150,7 +151,6 @@
 					<ul>
 						<li>JQuery</li>
 						<li>Javascript</li>
-						<li><i class="fa fa-github"></i> Git/Github</li>
 						<li>PHP</li>
 						<li><i class="fa fa-wordpress"></i> WordPress</li>
 					</ul>
@@ -160,7 +160,8 @@
 					<div class="lighter skills">
 					<h3>Investigating:</h3>
 					<ul>
-						<li>Ruby</li>
+						<li>SASS/SCSS</li>
+						<li>Angular 1.X</li>
 						
 					</ul>
 					</div><!--lighter-->
