@@ -103,7 +103,7 @@ hr {
 /*===WHAT I'VE BUILT===*/
 
 #built {
-	background: #fff;
+	background: #ccc;
 	text-align: center;
 	padding-top: 50px;
 }
@@ -126,8 +126,10 @@ hr {
 	/*border: 1px solid #fff;
 	border-radius: 10px;*/
 	padding: 20px 0 40px 0;
-	
-	
+}
+
+#jsContainer {
+	background: #ccc;
 }
 
 /*===WHAT I KNOW===*/

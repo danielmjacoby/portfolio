@@ -85,11 +85,52 @@
 				<div class="col-sm-offset-2 col-sm-8">
 				<hr>		
 				</div>
-				<div class="col-sm-offset-2 col-sm-8">
-					<h3 class="center">JavaScript/jQuery</h3>
-					<p>I made the following as part of the front-end developer certificate from FreeCodeCamp. Everything was built from the ground up; I was shown an example site and then thrown into the wild to recreate it.</p>
+				<div id="jsContainer">
+					<div class="col-sm-offset-2 col-sm-8">
+						<h2 class="center">JavaScript/jQuery</h2>
+						<p>I created the following projects as part of the front-end developer certificate program from <a href="https://www.freecodecamp.com/" target= "_blank">FreeCodeCamp</a>. Everything was built from the ground up; I was shown an example site and then thrown into the wild to recreate it.<br> Clicking on the links below will take you to each project's Codepen page, allowing you to see the code laid out in an easy-to-read manner.</p>
 
-				</div>
+					</div>
+					<div class="col-sm-offset-2 col-sm-4">
+							
+							<h3><a href="https://codepen.io/danielmjacoby/pen/zBZALa" target="_blank">Calculator</a></h3>
+							
+							<p>I always get a kick of out the design stage. Starting with an empty page and slowly making a real-world item appear gives me a thrill. Diving into the logic taught me about how jQuery thinks of values vs numbers and introduced me to the .eval method which saved my life.</p>
+					</div><!--col-->
+					<div class="col-sm-4">
+							<a href="https://codepen.io/danielmjacoby/pen/zBZALa" target="_blank"><img class="img-rounded" src="assets/img/jsCalculator.png" alt="A JavaScript calculator"></a>
+						
+							
+					</div><!--col-->
+					<div class="col-sm-offset-4 col-sm-4">
+					<hr>		
+					</div>
+					<div class="col-sm-offset-2 col-sm-4">
+							
+							<h3><a href="https://codepen.io/danielmjacoby/pen/NAaAPW" target="_blank">Wikipedia Viewer</a></h3>
+							
+							<p>This one allowed me to mess around with JSON (and jQuery's .getJSON method). It also continues my unnatural obsession with box shadows.</p>
+					</div><!--col-->
+					<div class="col-sm-4">
+							<a href="https://codepen.io/danielmjacoby/pen/NAaAPW" target="_blank"><img class="img-rounded" src="assets/img/wikiViewer.png" alt="A wikipedia article viewer"></a>
+						
+							
+					</div><!--col-->
+					<div class="col-sm-offset-4 col-sm-4">
+					<hr>		
+					</div>	
+					<div class="col-sm-offset-2 col-sm-4">
+							
+							<h3><a href="https://codepen.io/danielmjacoby/pen/wWZPwr" target="_blank">Random Quote</a></h3>
+							
+							<p>More fun with JSON and random numbers. I especially like the random color generator.</p>
+					</div><!--col-->
+					<div class="col-sm-4">
+							<a href="https://codepen.io/danielmjacoby/pen/wWZPwr" target="_blank"><img class="img-rounded" src="assets/img/randomQuote.png" alt="A random quote machine"></a>
+						
+							
+					</div><!--col-->
+				</div><!--jsContainer-->
 				<!--<div class="col-sm-offset-2 col-sm-4">
 						<h3><a href="newcard.php" target="_blank">The Other One</a></h3>
 						<p>I still made a site for my brother-in-law. I felt guilty about stealing the initial idea for myself, so I tried adding some more bells and whistles. The site looks different on mobile vs desktop, which I accomplished via CSS flexbox and sacrificing an albino calf to the dark gods that live in a field by my house.</p><br>
