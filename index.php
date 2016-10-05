@@ -151,6 +151,7 @@
 					<ul>
 						<li>JQuery</li>
 						<li>Javascript</li>
+						<li>SASS/SCSS</li>
 						<li>PHP</li>
 						<li><i class="fa fa-wordpress"></i> WordPress</li>
 					</ul>
@@ -160,7 +161,7 @@
 					<div class="lighter skills">
 					<h3>Investigating:</h3>
 					<ul>
-						<li>SASS/SCSS</li>
+						
 						<li>Angular 1.X</li>
 						
 					</ul>
