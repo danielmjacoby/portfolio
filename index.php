@@ -29,7 +29,7 @@
 						<div class="navbar-collapse collapse">
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#built">What I've Built</a></li>
-								<li><a href="#know">What I Know</a></li>
+								<!--<li><a href="#know">What I Know</a></li>-->
 								<li><a href="#about-me">About Me</a></li>
 								<li><a href="#contact">Contact</a></li>
 							</ul>
@@ -85,14 +85,19 @@
 				<div class="col-sm-offset-2 col-sm-8">
 				<hr>		
 				</div>
-				<div class="col-sm-offset-2 col-sm-4">
+				<div class="col-sm-offset-2 col-sm-8">
+					<h3 class="center">JavaScript/jQuery</h3>
+					<p>I made the following as part of the front-end developer certificate from FreeCodeCamp. Everything was built from the ground up; I was shown an example site and then thrown into the wild to recreate it.</p>
+
+				</div>
+				<!--<div class="col-sm-offset-2 col-sm-4">
 						<h3><a href="newcard.php" target="_blank">The Other One</a></h3>
 						<p>I still made a site for my brother-in-law. I felt guilty about stealing the initial idea for myself, so I tried adding some more bells and whistles. The site looks different on mobile vs desktop, which I accomplished via CSS flexbox and sacrificing an albino calf to the dark gods that live in a field by my house.</p><br>
-				</div><!--col-->
+				</div> 
 				<div class="col-sm-4">
 				
 					<a href="newcard.php" target="_blank"><img class="img-rounded" src="assets/img/garrydesktop.png" alt="A digital business card"></a>
-				</div><!-- div col -->
+				</div> 
 				<div class="col-sm-offset-2 col-sm-8">
 				<hr>		
 				</div>
@@ -100,10 +105,10 @@
 					
 					<h3><a href="panicbutton.html" target="_blank">Panic Button</a></h3>
 					<p>This is an experiment trying out interactive fiction, an idea I'd like to build upon. I built it using jQuery. </p>
-				</div><!--col-->
+				</div> 
 				<div class="col-sm-4">
 					<a href="panicbutton.html" target="blank"><img class="img-rounded border" src="assets/img/panicbutton.png" alt="Panic Button page screenshot"></a>
-				</div><!-- div col -->		
+				</div> 		
 				<div class="col-sm-offset-2 col-sm-8">
 				<hr>
 					<p class="lead">These are sites I built as part of my classes. They will get phased out as I build up my body of work.</p>
@@ -112,20 +117,20 @@
 						<img class="img-rounded" src="assets/img/codePlayer.png">
 						<p>Write HTML on the left, see your results on the right. There are also columns for CSS and Javascript. This project used jQuery to toggle the columns on and off.</p>
 						<button role="button" class="btn btn-success"><a href="codeplayer.html">Code Player</a></button>	
-					</div><!-- div col -->
+					</div> 
 					<div class="col-sm-6 white">
 						<img class="img-rounded" src="assets/img/weatherScraper.png">
 						<p>One of the first sites I built with bootstrap. This one uses PHP and regular expressions to scrape info from another weather website and import it. It's in celcius because that seems more refined.</p>
 						<button role="button" class="btn btn-success"><a href="weather.php">Weather Scraper</a></button>	
-					</div><!-- div col -->
+					</div> -->
 				
-			</div><!--divcol-->
-		</div><!--row-->
-	</div><!--container-->
+			</div> 
+		</div> 
+	</div> 
 </section>
 
 <!--WHAT I KNOW-->
-<section id="know">
+<!--<section id="know">
 	<div class="container">
 		<div class="row middle">
 			
@@ -144,7 +149,7 @@
 						</div>
 					</ul>
 					</div>
-				</div><!--col-->
+				</div> 
 				<div class="col-sm-4 col-xs-12">
 					<div class="lighter skills">
 					<h3>Familiar with:</h3>
@@ -155,8 +160,8 @@
 						<li>PHP</li>
 						<li><i class="fa fa-wordpress"></i> WordPress</li>
 					</ul>
-					</div><!--lighter-->
-				</div><!--col-->
+					</div> 
+				</div> 
 				<div class="col-sm-4 col-xs-12">
 					<div class="lighter skills">
 					<h3>Investigating:</h3>
@@ -165,13 +170,13 @@
 						<li>Angular 1.X</li>
 						
 					</ul>
-					</div><!--lighter-->
-				</div><!--col-->
+					</div> 
+				</div> 
 			
 
-		</div><!--row-->
-	</div><!--container-->	
-</section>
+		</div> 
+	</div> 
+</section>-->
 
 <!--ABOUT ME-->
 <section id="about-me">
