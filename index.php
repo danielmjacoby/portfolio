@@ -123,7 +123,7 @@
 							
 							<h3><a href="https://codepen.io/danielmjacoby/pen/wWZPwr" target="_blank">Random Quote</a></h3>
 							
-							<p>More fun with JSON and random numbers. I especially like the random color generator.</p>
+							<p>More fun with JSON and random numbers. I especially like the random color generation.</p>
 					</div><!--col-->
 					<div class="col-sm-4">
 							<a href="https://codepen.io/danielmjacoby/pen/wWZPwr" target="_blank"><img class="img-rounded" src="assets/img/randomQuote.png" alt="A random quote machine"></a>
@@ -131,93 +131,13 @@
 							
 					</div><!--col-->
 				</div><!--jsContainer-->
-				<!--<div class="col-sm-offset-2 col-sm-4">
-						<h3><a href="newcard.php" target="_blank">The Other One</a></h3>
-						<p>I still made a site for my brother-in-law. I felt guilty about stealing the initial idea for myself, so I tried adding some more bells and whistles. The site looks different on mobile vs desktop, which I accomplished via CSS flexbox and sacrificing an albino calf to the dark gods that live in a field by my house.</p><br>
-				</div> 
-				<div class="col-sm-4">
 				
-					<a href="newcard.php" target="_blank"><img class="img-rounded" src="assets/img/garrydesktop.png" alt="A digital business card"></a>
-				</div> 
-				<div class="col-sm-offset-2 col-sm-8">
-				<hr>		
-				</div>
-				<div class="col-sm-offset-2 col-sm-4">
-					
-					<h3><a href="panicbutton.html" target="_blank">Panic Button</a></h3>
-					<p>This is an experiment trying out interactive fiction, an idea I'd like to build upon. I built it using jQuery. </p>
-				</div> 
-				<div class="col-sm-4">
-					<a href="panicbutton.html" target="blank"><img class="img-rounded border" src="assets/img/panicbutton.png" alt="Panic Button page screenshot"></a>
-				</div> 		
-				<div class="col-sm-offset-2 col-sm-8">
-				<hr>
-					<p class="lead">These are sites I built as part of my classes. They will get phased out as I build up my body of work.</p>
-				
-					<div class="col-sm-6 white">
-						<img class="img-rounded" src="assets/img/codePlayer.png">
-						<p>Write HTML on the left, see your results on the right. There are also columns for CSS and Javascript. This project used jQuery to toggle the columns on and off.</p>
-						<button role="button" class="btn btn-success"><a href="codeplayer.html">Code Player</a></button>	
-					</div> 
-					<div class="col-sm-6 white">
-						<img class="img-rounded" src="assets/img/weatherScraper.png">
-						<p>One of the first sites I built with bootstrap. This one uses PHP and regular expressions to scrape info from another weather website and import it. It's in celcius because that seems more refined.</p>
-						<button role="button" class="btn btn-success"><a href="weather.php">Weather Scraper</a></button>	
-					</div> -->
 				
 			</div> 
 		</div> 
 	</div> 
 </section>
 
-<!--WHAT I KNOW-->
-<!--<section id="know">
-	<div class="container">
-		<div class="row middle">
-			
-			<h1>What I Know</h1>
-				<div class="col-sm-4 col-xs-12">
-					<div class="lighter skills">
-					<h3>Fluent in: </h3>
-					<ul>
-						<li><i class="fa fa-html5"></i> HTML5</li>
-						<li><i class="fa fa-css3"></i> CSS3</li>
-						<li><span class="purple">B</span> Bootstrap</li>
-						<li><i class="fa fa-github"></i> Git/Github</li>
-						<li><i class="fa fa-hand-spock-o"></i> Introverts</li>
-						<div class="bottom">
-							<li>I'm leaving all this empty space because I'm an optimist</li>
-						</div>
-					</ul>
-					</div>
-				</div> 
-				<div class="col-sm-4 col-xs-12">
-					<div class="lighter skills">
-					<h3>Familiar with:</h3>
-					<ul>
-						<li>JQuery</li>
-						<li>Javascript</li>
-						<li>SASS/SCSS</li>
-						<li>PHP</li>
-						<li><i class="fa fa-wordpress"></i> WordPress</li>
-					</ul>
-					</div> 
-				</div> 
-				<div class="col-sm-4 col-xs-12">
-					<div class="lighter skills">
-					<h3>Investigating:</h3>
-					<ul>
-						
-						<li>Angular 1.X</li>
-						
-					</ul>
-					</div> 
-				</div> 
-			
-
-		</div> 
-	</div> 
-</section>-->
 
 <!--ABOUT ME-->
 <section id="about-me">
@@ -245,18 +165,18 @@
 					</div><!--whitebox-->
 				</div><!-- div col -->
 				<div id="bio" class="col-sm-offset-1 col-sm-10">
-				<p>But don't worry; I'm not interested in any of that. Let's talk about me.</p>
-				<p>It's safe to say that my life has always revolved around technology. I grew up on a steady diet of Etch-A-Sketch (<em>that</em> would make for a cool icon), Konami codes, and indestructable Nokia brick phones. I've purchased (and returned) an Apple Watch, launched a <a href="https://www.indiegogo.com/projects/best-father-s-day-gift-ever/x/107059#/" target="_blank">woefully unsuccessfull crowdfunding campaign</a>, and I'll soon be welcoming a brand-new baby Oculus Rift into my home.</p>
-				<p>But it wasn't until the summer of 2015 that I decided it was time to learn how to make the things I love, instead of just consuming them. In the beginning, I focused on front-end web design for several reasons:
+				<p>Don't worry: I'm not interested in any of that. Let's talk about me.</p>
+				<p>My life has always revolved around technology. I grew up on a steady diet of Etch-A-Sketch, Konami codes, and indestructable Nokia brick phones. I've owned (and returned) an Apple Watch, launched a <a href="https://www.indiegogo.com/projects/best-father-s-day-gift-ever/x/107059#/" target="_blank">woefully unsuccessfull crowdfunding campaign</a>, and I've jumped head-first into VR by purchasing an Oculus Rift.</p>
+				<p>But it wasn't until the summer of 2015 that I decided to stop just consuming the things I love, and instead learn how to start making them. I focused on front-end web design for several reasons:
 					<ul>
  						<li>I love the creative aspect of designing a page, fiddling with styles to make things look just right. It feels like a natural extension of my abilities. </li>
- 						<li>I'm interested in learning the full stack, but I thought it would be better to really nail the basics first. I'm slowy making my way backwards.</li>
- 						<li>Instant feedback. Save something as a .html and within seconds I can see my creation in multiple browers. This allows me to iterate quickly.</li>
+ 						<li>I'm interested in learning the full stack, but I thought it would be better to really nail the front-end first. I'm slowy making my way backwards.</li>
+ 						<li>Instant feedback. Save something as a .html file and within seconds I can see my creation in multiple browsers. This allows me to iterate quickly.</li>
 					</ul>
 				</p>
-				<p>I've woken up early, stayed up late, and stolen countless moments throughout the day to consume anything I could get my hands on. I've taken classes from Udemy, Udacity, Codecademy, and my local community college. Google and Stack Overflow have become constant companions as I navagite a world of floats and padding, functions and event handlers. I'm even reading an honest-to-God <a href="http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?ie=UTF8&amp;qid=1460000689&amp;sr=8-1&amp;keywords=javascript+and+jquery" target="_blank">book</a> (made out of paper and everything).
+				<p>I've woken up early, stayed up late, and stolen countless moments throughout the day to consume anything I could get my hands on. I've taken classes from Udemy, Udacity, Codecademy, and my local community college. Google and Stack Overflow have become constant companions as I navagite a world of floats and padding, functions and event handlers. I'm even reading an honest-to-God <a href="http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?ie=UTF8&amp;qid=1460000689&amp;sr=8-1&amp;keywords=javascript+and+jquery" target="_blank">book</a> (made out of paper and everything). <br><br>I know how to break complex problems into smaller chunks, and I'm confident that I can make an immediate positive impact as part of a (your?) team.
 				</p>
-				<p>It's a lot to take in, but I'm just getting started. Maybe you'll come along for the ride?</p>
+				<!--<p>It's a lot to take in, but I'm in it for the long haul.<br><br> Come along for the ride <i class="fa fa-fighter-jet fa-lg"></i> </p>-->
 				</div><!--col-->
 			</div><!-- div col -->
 		</div><!--row-->
@@ -271,7 +191,7 @@
 				<h1>Contact</h1>
 				<p class="lead">Let's stay in touch.</p> 
 				<p>Send me an <a href="mailto:danielmjacoby@gmail.com" target="blank">email</a>, check out my 
-				<a href="https://linkedin.com/in/danielmjacoby" target="_blank">LinkedIn</a> page, or take a look at my <a href="https://github.com/danielmjacoby" target="_blank">Github</a> account.</p> 
+				<a href="https://linkedin.com/in/danielmjacoby" target="_blank">LinkedIn</a> page, or take a look at my <a href="https://github.com/danielmjacoby" target="_blank">Github</a> and <a href="https://codepen.io/danielmjacoby/" target="_blank">Codepen</a> accounts.</p> 
 				<p>Interested in my resume? <a href="http://standardresume.co/DanielMJacoby" target="_blank">Here you go</a>.</p>
 			</div><!-- div col -->
 		</div><!--row-->
@@ -282,7 +202,7 @@
 			<div class="row">
 			<div class="col-sm-12">
 				<p class="center">&copy;<?php echo date('Y'); ?> Daniel Jacoby</p>
-				<p class="center">Cool blue underlines shamelessly stolen from <a href="http://wired.com" target="blank">Wired.com</a>.</p>
+				<p class="center">Cool underlines shamelessly stolen from <a href="http://wired.com" target="blank">Wired.com</a>.</p>
 			</div><!-- div col -->
 		</div><!--row-->
 		</div><!--container-->
