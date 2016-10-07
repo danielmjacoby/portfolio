@@ -88,7 +88,7 @@
 				<div id="jsContainer">
 					<div class="col-sm-offset-2 col-sm-8">
 						<h2 class="center">JavaScript/jQuery</h2>
-						<p>I created the following projects as part of the front-end developer certificate program from <a href="https://www.freecodecamp.com/" target= "_blank">FreeCodeCamp</a>. Everything was built from the ground up; I was shown an example site and then thrown into the wild to recreate it.<br> Clicking on the links below will take you to each project's Codepen page, allowing you to see the code laid out in an easy-to-read manner.</p>
+						<p>I created the following projects as part of the front-end developer certificate program from <a href="https://www.freecodecamp.com/" target= "_blank">FreeCodeCamp</a>. Everything was built from the ground up; I was shown an example site and then thrown into the wild to recreate it.<br> Clicking on the links below will take you to each project's Codepen page, allowing you to see the code laid out in an easy-to-read manner.</p><br>
 
 					</div>
 					<div class="col-sm-offset-2 col-sm-4">
@@ -121,7 +121,7 @@
 					</div>	
 					<div class="col-sm-offset-2 col-sm-4">
 							
-							<h3><a href="https://codepen.io/danielmjacoby/pen/wWZPwr" target="_blank">Random Quote</a></h3>
+							<h3><a href="https://codepen.io/danielmjacoby/pen/wWZPwr" target="_blank">Random Quotes</a></h3>
 							
 							<p>More fun with JSON and random numbers. I especially like the random color generation.</p>
 					</div><!--col-->
